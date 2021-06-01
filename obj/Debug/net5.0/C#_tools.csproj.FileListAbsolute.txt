@@ -1,0 +1,16 @@
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.exe
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.deps.json
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.runtimeconfig.json
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.runtimeconfig.dev.json
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.dll
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\ref\C#_tools.dll
+C:\Users\coryc\Desktop\tools\C#_tools\bin\Debug\net5.0\C#_tools.pdb
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.csproj.AssemblyReference.cache
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.AssemblyInfoInputs.cache
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.AssemblyInfo.cs
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.csproj.CoreCompileInputs.cache
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.dll
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\ref\C#_tools.dll
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.pdb
+C:\Users\coryc\Desktop\tools\C#_tools\obj\Debug\net5.0\C#_tools.genruntimeconfig.cache
